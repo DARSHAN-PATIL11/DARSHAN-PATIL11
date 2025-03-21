@@ -102,13 +102,11 @@
 </p>
 <br><br>
   $ githubstats <br>
-  ><br> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshan-patil11&show_icons=true&locale=en&layout=compact" alt="darshan-patil11" /></p><br>
-  
-  <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=darshan-patil11&show_icons=true&locale=en" alt="darshan-patil11" /></p>
+  ><p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=darshan-patil11&show_icons=true&locale=en" alt="darshan-patil11" /></p>
 
   <br><br>
-  $ nsnake <br>
-  >
+  $ nsnake <br> >
+  
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
