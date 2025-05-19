@@ -7,7 +7,7 @@
   <br><br>
   $ connectwithme<br>
   > <a href="https://twitter.com/d4rsh69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="d4rsh69" height="30" width="40" /></a><br>
-  > 
+<!--   >  -->
 <!--   <a href="https://linkedin.com/in/https://github.com/darshan-patil11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/darshan-patil11" height="30" width="40" /></a> -->
   <br><br>
   $ languages&tools<br>
