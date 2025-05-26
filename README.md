@@ -103,10 +103,9 @@
   </a>
 </p>
 <br><br>
-  $ githubstats <br>
+<!--   $ githubstats <br>
   ><p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=darshan-patil11&show_icons=true&locale=en" alt="darshan-patil11" /></p>
 
-  <br><br>
   $ nsnake <br> >
   
   <picture>
